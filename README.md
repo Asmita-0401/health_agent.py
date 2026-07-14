@@ -17,34 +17,6 @@ An AI-powered Health & Fitness Planner built using **Python, Streamlit, Agno Age
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-> Add your screenshot here
-
-```
-images/home.png
-```
-
-### Generated Diet Plan
-
-> Add screenshot here
-
-```
-images/diet_plan.png
-```
-
-### Fitness Plan
-
-> Add screenshot here
-
-```
-images/fitness_plan.png
-```
-
----
-
 ## 🛠 Tech Stack
 
 - Python
